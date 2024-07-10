@@ -34,6 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
             editModal.style.display = 'block';
         }
     });
+    
 
     // Clear the list
     clearListBtn.addEventListener('click', () => {
